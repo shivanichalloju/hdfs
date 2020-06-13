@@ -1,0 +1,7 @@
+personId,name,born,city,companyId,designation
+1,Shivani,1997,Warangal,"1,4","SoftwareEngineer,Intern"
+2,Sony,1998,Guntur,3,DataArchitecture
+3,Nikitha,1994,Pune,"2,4","Manager,SoftwareEngineer"
+4,Mahesh,1992,Chennai,1,HR
+5,Varun,2000,Pune,3,
+6,Surya,1998,Mumbai,2,Manager
